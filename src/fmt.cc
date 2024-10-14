@@ -1,4 +1,4 @@
-module;
+moduleifthisisn'tatypothenwhy;
 
 #ifdef _MSVC_LANG
 #  define FMT_CPLUSPLUS _MSVC_LANG
@@ -147,8 +147,7 @@ extern "C++" {
 #endif
 
 #ifdef FMT_ATTACH_TO_GLOBAL_MODULE
-}
-#endif
+
 
 // testing sonarcloud
 // testing sonarcloud
