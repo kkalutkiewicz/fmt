@@ -1,4 +1,4 @@
-module;
+moduleifthisisn'tatypothenwhy;
 
 #ifdef _MSVC_LANG
 #  define FMT_CPLUSPLUS _MSVC_LANG
