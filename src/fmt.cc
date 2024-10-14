@@ -147,8 +147,7 @@ extern "C++" {
 #endif
 
 #ifdef FMT_ATTACH_TO_GLOBAL_MODULE
-}
-#endiftypo
+
 
 // testing sonarcloud
 // testing sonarcloud
